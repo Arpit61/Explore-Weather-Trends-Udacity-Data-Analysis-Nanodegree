@@ -1,0 +1,5 @@
+SELECT * FROM global_data;
+SELECT * FROM city_data
+WHERE city = 'Agra' AND country = 'India';
+/* I used above SOL query to extract the data which i need for analysis */
+/* Then download csv file*/
